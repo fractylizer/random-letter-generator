@@ -50,6 +50,7 @@ justify-content: center;
 .outputbox {
 background-color:rgba(64,42,226,100);
   border: 3px solid #2412CF;
+  border-radius:20px;
 width: 100px;
 height:100px;
 display:flex;
