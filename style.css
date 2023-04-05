@@ -1,56 +1,59 @@
 body {
-  margin:0;
-  background-color:rgb(255,255,255);
+margin:0;
+background-color:rgb(255,255,255);
   height: 100vh;
 }
 
+
+
 .title {
-  text-align: center;
-  font-family:sans-serif;
+text-align: center;
+font-family:sans-serif;
 }
 
 .button {
-  display:flex;
-  justify-content: center;
+display:flex;
+justify-content: center;
 }
 
 h2 {
-  font-family:sans-serif;
-  color:purple;
-  text-align:center
+ font-family:sans-serif;
+ color:purple;
+ text-align:center
 }
 
 .aboutText{
-  text-align:center;
+text-align:center;
 
 }
 
 .about{
-  background-color:rgb(250,250,250);
-  padding:20px;
+ background-color:rgb(250,250,250);
+padding:20px;
 }
 
 
 .boxbox{
-  display:flex;
-  justify-content: center;
+display:flex;
+justify-content: center;
 }
 
 
 .new-letter {
   display: block;
 }
-
 #output {
-  font-size:60px;
-  color:white;
+ font-size:60px;
+ color:white;
 
+}
 .outputbox {
-  background-color:rgb(64,42,226);
+background-color:rgb(64,42,226);
   border: 3px solid #2412CF;
-  width: 100px;
-  height:100px;
-  display:flex;
-  justify-content:center;
-  align-items:center;
+width: 100px;
+height:100px;
+display:flex;
+justify-content:center;
+align-items:center;
+
 }
