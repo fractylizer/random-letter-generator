@@ -48,7 +48,6 @@ h2 {
 .outputbox {
   background-color:rgb(64,42,226);
   border: 3px solid #2412CF;
-  border-radius: 25px;
   width: 100px;
   height:100px;
   display:flex;
