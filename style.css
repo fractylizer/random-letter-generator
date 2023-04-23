@@ -1,12 +1,13 @@
 body {
 margin:0;
-background-color:rgb(255,255,255);
+background-color:rgb(25,25,75);
   height: 100vh;
 }
 
 .title {
 text-align: center;
 font-family:sans-serif;
+  color:white;
 }
 
 .titlebox {
@@ -29,7 +30,7 @@ text-align:center;
 }
 
 .about{
- background-color:rgb(250,250,250);
+ background-color:rgb(255,255,255);
 padding:20px;
 }
 
