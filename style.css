@@ -30,7 +30,7 @@ text-align:center;
 }
 
 .about{
- background-color:rgb(255,255,255);
+ background-color:rgb(25,25,125);
 padding:20px;
 }
 
@@ -50,8 +50,8 @@ justify-content: center;
 
 }
 .outputbox {
-background-color:rgba(64,42,226,100);
-  border: 3px solid #2412CF;
+background-color:rgba(255,255,255,100);
+  border: 3px solid #D0DEED;
   border-radius:20px;
 width: 100px;
 height:100px;
