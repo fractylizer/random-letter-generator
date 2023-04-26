@@ -1,6 +1,6 @@
 body {
 margin:0;
-background-color:rgb(25,25,75);
+background-color:#a09be7;
   height: 100vh;
 }
 
@@ -20,17 +20,18 @@ justify-content: center;
 
 h2 {
  font-family:sans-serif;
- color:purple;
+ color:#FFFFFF;
  text-align:center
 }
 
 .aboutText{
 text-align:center;
+color:#ao9be7;
 
 }
 
 .about{
- background-color:rgb(25,25,125);
+ background-color:#1a1a55;
 padding:20px;
 }
 
@@ -50,8 +51,8 @@ justify-content: center;
 
 }
 .outputbox {
-background-color:rgba(255,255,255,100);
-  border: 3px solid #D0DEED;
+background-color:#FFFFFF;
+  border: 3px solid #fff2f1;
   border-radius:20px;
 width: 100px;
 height:100px;
