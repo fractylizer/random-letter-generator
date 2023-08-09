@@ -1,6 +1,6 @@
 function stringGen(len) {
     var text = " ";
-    var charset = "ABCDEFGHIJKLMNOPSTUW";
+    var charset = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
     for( var i=0; i < len; i++ )
         text += charset.charAt(Math.floor(Math.random() * charset.length));
